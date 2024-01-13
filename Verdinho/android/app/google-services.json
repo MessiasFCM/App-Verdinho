@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8979163754",
+    "project_id": "verdinho-f3443",
+    "storage_bucket": "verdinho-f3443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8979163754:android:559e7b64faec1ef1cbf813",
+        "android_client_info": {
+          "package_name": "mero.verdinho.verdinho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8979163754-0t731tmofmcrsh9s1292nhudcbjd7p2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mero.verdinho.verdinho",
+            "certificate_hash": "4f6e1b15c5f6f8ea2ddfa389501484bfc01422ed"
+          }
+        },
+        {
+          "client_id": "8979163754-qdfis4mdbnnnckmkvmdqvg7vmjp9l27e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_-eNlMjoWXQ1m2SUslWmha8Yu50VObvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8979163754-qdfis4mdbnnnckmkvmdqvg7vmjp9l27e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
